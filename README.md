@@ -27,7 +27,7 @@
 ---
 ## 🔧 Архитектура
 
-```mermaid
+```text
 Telegram Bot (Aiogram)
     ├─ main.py                 # команды и обработка сообщений
     ├─ dialogs.py              # диалоги (Aiogram-Dialog)
@@ -71,4 +71,4 @@ make down
 ```
 
 ## 📱 Пример использования в Telegram
-![example](screenshot_bot.png)
+![example](assets/screenshot_bot.png)
